@@ -6,6 +6,6 @@ isort==5.13.2
 mypy==1.13.0
 pre-commit==4.0.1
 pytest==8.3.4
-pytest-benchmark==4.0.0
+pytest-benchmark==5.1.0
 pytest-cov==6.0.0
 yamllint==1.35.1
